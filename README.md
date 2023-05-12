@@ -9,12 +9,12 @@
  User can edit or delete subscription options. The user can get a list of subscriptions.
  Use third-party services to get up-to-date weather data.
  
- ## Documentation
- 
  ## Developers
  
 [y.kovalchuk](https://github.com/job-space)
 
 ## License
+
+Project weather_remider is distributed under the MIT lisense.
 
 
