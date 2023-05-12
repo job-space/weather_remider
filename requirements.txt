@@ -1,0 +1,9 @@
+Django==4.2.1
+djangorestframework==3.14.0
+celery==5.2.7
+django-celery-beat==2.5.0
+djoser==2.2.0
+requests-mock==1.10.0
+django-gunicorn==0.1.1
+whitenoise==6.4.0
+redis==4.5.5
